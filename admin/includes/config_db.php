@@ -2,9 +2,9 @@
 
 //configuration file
 $dbhost = 'localhost';
-$dbuser = 'root';
-$dbpass = 'password';//password
-$dbname = 'feedback';
+$dbuser = '';//username
+$dbpass = '';//password
+$dbname = '';//dbname
 
 
 $databasehost = $dbhost;
